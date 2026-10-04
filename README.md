@@ -11,3 +11,5 @@ GitHub：[ODtian/MaterixivYou](https://github.com/ODtian/MaterixivYou)。
 
 规格 Issue：[MaterixivYou 新版客户端 #1](https://github.com/ODtian/MaterixivYou/issues/1)。
 设计系统依赖：[Avalonia.Material3](https://github.com/ODtian/Avalonia.Material3)。
+
+- [实施票据索引](docs/TICKETS.md)
